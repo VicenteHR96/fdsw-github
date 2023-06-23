@@ -46,6 +46,18 @@ body {
   background-position: center;
 }
 
+#Mis-trabajos {
+  background-image: url(../img/bg-main.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+}
+
+.card {
+  background-color: #11111f;
+  color: white;
+}
+
 /* Contacto */
 
 #Contacto form label {
