@@ -1,5 +1,6 @@
 body {
   font-family: "Raleway", sans-serif;
+  background-color: #11111f;
 }
 
 /* NavBar Section */
@@ -27,6 +28,13 @@ body {
 
 .button-trabajo:hover {
   color: black !important;
+}
+
+/* Acerca de mí */
+
+#Acerca-de-mi {
+  background-color: #11111f;
+  color: white;
 }
 
 /* Mis trabajos */
