@@ -60,9 +60,17 @@ body {
 
 /* Contacto */
 
+#Contacto h2 {
+  color: white;
+}
+
+#Contacto p {
+  color: white;
+}
+
 #Contacto form label {
   font-weight: 700;
-  color: #373a3c;
+  color: white;
 }
 
 @media (max-width: 768px) {
